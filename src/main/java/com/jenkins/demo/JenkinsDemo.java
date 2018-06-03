@@ -2,7 +2,7 @@ package com.jenkins.demo;
 
 /*
 Jenkins demo is module to test Jenkins &
-git functionlaity together
+git functionlaity together & upadting comments
 */
 class JenkinsDemo {
 
