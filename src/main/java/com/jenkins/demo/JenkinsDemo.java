@@ -1,6 +1,9 @@
 package com.jenkins.demo;
 
-
+/*
+Jenkins demo is module to test Jenkins &
+git functionlaity together
+*/
 class JenkinsDemo {
 
     int var;
