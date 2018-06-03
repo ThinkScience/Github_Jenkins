@@ -19,7 +19,7 @@ class JenkinsDemo {
     }
     
     public int getVar(){
-        var;
+       return  this.var;
     }
 
 }
